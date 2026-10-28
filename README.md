@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.fullstopsolution.in">
+    <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/logo-wide.png" alt="Fullstop Solution Logo" width="380">
+  </a>
+</p>
+
 # Fullstop Desktop Suite Distribution
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
