@@ -1,10 +1,14 @@
 <p align="center">
   <a href="https://www.fullstopsolution.in">
-    <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/logo-wide.png" alt="Fullstop Solution Logo" width="380">
+    <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/fullstop-banner.svg" alt="Fullstop Solution" width="760">
   </a>
 </p>
 
-# Fullstop Desktop Suite Distribution
+<p align="center">
+  <a href="https://www.fullstopsolution.in"><img src="https://img.shields.io/badge/Official%20Website-fullstopsolution.in-cyan?style=for-the-badge&logo=safari" alt="Website"></a>
+  <a href="https://www.fullstopsolution.in/#desktop"><img src="https://img.shields.io/badge/Downloads-Desktop%20Suite-blue?style=for-the-badge&logo=apple" alt="Downloads"></a>
+  <a href="https://www.fullstopsolution.in/security.html"><img src="https://img.shields.io/badge/Privacy-Zero--Knowledge-brightgreen?style=for-the-badge" alt="Zero-Knowledge"></a>
+</p># Fullstop Desktop Suite Distribution
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Zero-Knowledge](https://img.shields.io/badge/Privacy-100%25%20Client--Side-brightgreen)](https://www.fullstopsolution.in/security.html)
@@ -74,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ---
 
-### 🛡️ About Fullstop Solution
+### <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/logo.png" alt="Fullstop Solution" width="28" style="vertical-align:middle; margin-right:8px;"> About Fullstop Solution
 
 **Fullstop Solution** ([www.fullstopsolution.in](https://www.fullstopsolution.in)) develops precision open-source software, native enterprise security auditing tools, and privacy-first digital engineering suites. Built for developers, security researchers, and system administrators who require absolute privacy, client-side execution, and zero cloud lock-in.
 
